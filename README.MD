@@ -7,4 +7,7 @@
 3. 自动生成icon_hash功能（贼好用）
 
 **生成icon_hash功能演示**
+
 ![iconhash.gif](img/iconhash.gif)
+
+# 博客：https://www.bugku.net
