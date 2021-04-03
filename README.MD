@@ -11,5 +11,3 @@
 ![iconhash.gif](img/iconhash.gif)
 
 # 博客：https://www.bugku.net
-
-# 微信：get1shell
